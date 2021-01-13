@@ -12,10 +12,10 @@ function import_game(path::String)
         nodes = findall(";", contents)
         for i in range(1, length = length(nodes))
 
-            node = contents[nodes[i]:nodes[i + 1]]
+            node = contents[nodes[i]]
 
             # First, find who the winner was.
-            result = node[findfirst("RE[*]", node)]
+            result = node[findfirst("RE", node)]
             println(result)
 
             if contents[nodes[i] + 1] == "B" || contents[nodes[i] + 1] == "W"
