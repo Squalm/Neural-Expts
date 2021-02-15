@@ -1,0 +1,1544 @@
+{
+  "competitionName": "Scrambles for 2021-02-15",
+  "version": "TNoodle-WCA-1.0.1",
+  "generationDate": "Feb 15, 2021 12:39:29 PM",
+  "generationUrl": "/wcif/zip",
+  "wcif": {
+    "formatVersion": "1.0",
+    "id": "Scramblesfor20210215",
+    "name": "Scrambles for 2021-02-15",
+    "shortName": "Scrambles for 2021-02-15",
+    "persons": [],
+    "events": [
+      {
+        "id": "333",
+        "rounds": [
+          {
+            "id": "333-r1",
+            "format": "a",
+            "scrambleSetCount": 26,
+            "scrambleSets": [
+              {
+                "id": 2,
+                "scrambles": [
+                  "U R2 U B2 D' F2 U' B F D L B F' R U2 L' B U2 L'",
+                  "F2 L' D2 R B' D' R' U2 D2 R' B2 L2 F2 D2 F2 D' B L'",
+                  "B2 L2 R U2 L R2 F2 R B2 D2 F U R' B2 F D R D B' R",
+                  "D' B2 R' B' L2 D U R2 D' L' F' D L2 U' L R2 F",
+                  "D2 F' D2 R U2 L B2 L U2 R2 F U' L' F2 D2 R2 F' D2 R2"
+                ],
+                "extraScrambles": [
+                  "F2 U2 R' B L' D' F2 U F2 D' R2 D' B U2 R' D B' F R2",
+                  "R B2 U B U2 F L' F' D2 F R2 F' R2 B' U2 R2 D B"
+                ]
+              },
+              {
+                "id": 3,
+                "scrambles": [
+                  "B' L2 F' D2 B' L2 F L2 B' D2 R2 L' U' R D' R U' F' L2",
+                  "U2 L' R2 F2 L2 U2 B2 D L2 D2 L2 U' F' R' F' U' L2 U",
+                  "F' R2 D L2 D' U R2 F2 D2 R' U' R2 U2 R' B L2 R' U2",
+                  "D L' U' D' L2 F D' B' L B' F2 L U2 D2 R D2 L' F2 B'",
+                  "D2 R' F2 R F2 R2 F2 R' F' R' B' U2 R D U L' F' L2 U"
+                ],
+                "extraScrambles": [
+                  "F U2 F U' F2 R' B D2 R' D L U2 R2 D2 F2 L' D2 R'",
+                  "F' B2 D2 R2 D L2 U L2 B2 R2 U' R B U2 F R D U' R2"
+                ]
+              },
+              {
+                "id": 4,
+                "scrambles": [
+                  "D R L' D2 B U F R U2 R2 L2 U' F2 U R2 F2 U F2 R U",
+                  "U R2 F' U' R F' R D' R' D F2 L2 F2 D F2 D R2 F L'",
+                  "B2 R2 F2 U' F2 U2 L2 D2 F' L R B U' F' R U' L F2 R' U2",
+                  "F R' D' L U' F2 L B R L2 F2 R2 U' L2 U2 B' L",
+                  "F2 L2 F2 R2 U2 L2 R' F2 D2 B2 F' D R D B U B D' B' L"
+                ],
+                "extraScrambles": [
+                  "L' U2 F2 L2 R B2 R2 B U L2 B L D2 U B D2 R2 B'",
+                  "B' U' F' D2 F2 D2 R2 U R' F2 R2 L2 B' R2 F2 D2 F U2 R'"
+                ]
+              },
+              {
+                "id": 5,
+                "scrambles": [
+                  "D F R' B U2 F2 B D' B R2 L2 B D2 R2 B D B' R2",
+                  "L' D2 F' R2 B2 U2 L2 U2 B' D2 B' D2 F2 L U F' L B2 R'",
+                  "R' U2 B U2 R2 B' R' U' L2 F2 U F2 U' D2 R2 U R' F U2",
+                  "F' B' D F' U L' D2 F U' B' L' B2 D B2 L2 D' L2 U2 D'",
+                  "U2 B' L2 B2 L2 D' F2 L2 D' L' D U' R2 D2 B R' U' F"
+                ],
+                "extraScrambles": [
+                  "L' F2 U D2 B L F' U L' F2 D2 L2 D2 R' F2 R U2 D2 F2 D",
+                  "B U' L B2 L' F' R F2 U' F2 U2 B' D2 F' L2 F D2 U"
+                ]
+              },
+              {
+                "id": 6,
+                "scrambles": [
+                  "U' B L' F' U D R U' F' D B' D2 L2 U2 R2 B2 L2 F' L2 B'",
+                  "F L2 R2 U2 R2 D' F2 L2 U' R D F2 L' D2 U2 L2 B R D",
+                  "B' F' L2 U2 L2 F2 R2 U2 F D R2 F U2 R' U2 L2 D' L'",
+                  "B2 F D2 R2 B U2 R2 B L' B2 D F' L2 D2 U2 L' D' B2 F",
+                  "R' U' L2 B U2 L2 F' D2 B R2 B2 L R' D F R2 B D L'"
+                ],
+                "extraScrambles": [
+                  "L B2 U L2 D' R L2 U' L2 B' D2 B' R2 U2 B2 U2 F2 U",
+                  "U' L B' R' D' L' U L2 U2 R2 F2 R2 F' D2 B R2 B' D' R' D"
+                ]
+              },
+              {
+                "id": 7,
+                "scrambles": [
+                  "R2 F' B' U2 R B' U L' U F2 B2 U' B2 U2 L2 D B2 D2 L B'",
+                  "D' R' D' L' B2 R2 F D2 L2 U R2 F2 D2 B2 D B2 U' F' D",
+                  "B' U F' B2 R B2 L2 U' L B' F2 R2 F2 L2 D R2 L2 D' B",
+                  "B2 R2 D2 U B2 D R2 U2 L F' U F2 L R U F' R2 B L2",
+                  "D2 B2 D2 L2 F D2 L2 F' U2 L D2 B R U L D' L D B2 U2"
+                ],
+                "extraScrambles": [
+                  "U2 L' R U2 F2 U2 R' D2 F' L2 R' D R2 B2 D2 B' D' L2 U",
+                  "F R D' L F2 D2 L F2 L U2 D R2 F2 R2 B2 U' R2 U2"
+                ]
+              },
+              {
+                "id": 8,
+                "scrambles": [
+                  "B D2 B2 R D L U D F' U2 L U2 F2 R2 U2 B' R2 L2 U2",
+                  "B2 L U' B' R' U L' F' D R' L2 U2 B R2 F' D2 B' R2 B",
+                  "U' R2 U2 F R' U F2 D U B2 D' L F' R B R B2 F",
+                  "L R2 U2 B2 F2 U' F2 L2 F' L2 B U2 L U' L F2 L R",
+                  "L F' D2 U L2 B2 L2 F2 D B U' F2 R' U2 R D2 L' U"
+                ],
+                "extraScrambles": [
+                  "D2 L' B R U B2 D L2 F2 R2 U2 L B L2 R' D R F L",
+                  "L U R' B2 U' R B' U' R2 F2 D2 R2 D2 L2 D B2 D2 F D2"
+                ]
+              },
+              {
+                "id": 9,
+                "scrambles": [
+                  "F B2 R U' B2 D' B D B2 U2 L U2 F2 L' D' B' D'",
+                  "U F' B L2 D F R' L2 B R2 D F2 R' D2 B2 R L B2 D2",
+                  "R F R B2 L R B2 R' F2 R2 D' F' D' U' F2 L2 B' R2",
+                  "D2 U2 L2 D2 F' R2 F' U2 F R2 F' U2 D' L' B U2 L R F2",
+                  "R' B2 R' D' F' U2 L2 D' L R2 D' R2 U B2 R2 D L2 F2 U2"
+                ],
+                "extraScrambles": [
+                  "D U' L2 U B2 D' U' R' D R2 U2 B2 L U' B' R' D L",
+                  "B U L' B2 D2 R2 B R2 B' U2 B L' B L2 U' F R2 D' L"
+                ]
+              },
+              {
+                "id": 10,
+                "scrambles": [
+                  "D F' R' F2 L U2 L2 B2 U2 L' R F U B' F' R' B' L' B2",
+                  "R2 B' D R2 U B2 L F R L2 F2 L2 D B2 D' F2 U B2 L2",
+                  "R F2 U F U' D L' B2 U2 R2 B L2 B D2 L2 D2 L2 R F'",
+                  "L' B2 D2 R U2 B2 U2 L' F2 L' F R U' B U' F R D F' U'",
+                  "U D2 F L U F2 D2 L' D2 F' B2 U2 R' L' U2 D2 F2 U"
+                ],
+                "extraScrambles": [
+                  "R2 D2 F R2 B R2 F2 D2 B R' U' R2 F R F2 L' B2 L' R",
+                  "R2 U' D F2 R' D2 B2 R2 U2 R2 B L2 B2 U' B2 D R2 L2"
+                ]
+              },
+              {
+                "id": 11,
+                "scrambles": [
+                  "D2 L2 R2 U B2 U' F D U2 B F R' D R F2 D2 L2 F2",
+                  "U2 D2 B2 D R2 L F R' B2 U2 B R2 B2 U2 L2 U B L2",
+                  "L2 F2 R2 U2 L2 F R2 U2 R B' R2 D F D L' F' L U",
+                  "D F' U F2 R2 B2 L U2 R F2 R B' R2 U2 B' R' F R' F2",
+                  "U' B2 F2 R' U2 L2 B2 U2 L2 D' L B U L' B2 D2 B' L F'"
+                ],
+                "extraScrambles": [
+                  "B2 R' B' R B2 R' L2 B U' F R F2 R L B2 L D",
+                  "F L2 F L B' D2 L B2 D' F2 U' D B2 L2 B2 L2 D' R F2"
+                ]
+              },
+              {
+                "id": 12,
+                "scrambles": [
+                  "L2 F L' D2 R2 B F2 D2 R2 B2 F' L' F U2 R2 D B2 R2",
+                  "D2 L2 B D2 L2 D2 B2 F' D2 F' R D' R' F' U2 R B2 R2 U",
+                  "L2 D2 F R2 B R' D' F2 D2 R F2 B2 R2 F2 D2 B2 U R' D'",
+                  "D U2 B2 U' R F2 D' L' B' D L D' B2 F2 L R'",
+                  "D B2 D' L F2 D B' U D2 L2 D' R2 U' F2 U2 F D B"
+                ],
+                "extraScrambles": [
+                  "L B2 L' F2 D L2 D' R2 B2 U2 R2 F' D' R' F U' B' L2 B'",
+                  "F2 R D2 F2 L' B' R B U L2 D' F' U2 F2 B' R2 F L2"
+                ]
+              },
+              {
+                "id": 13,
+                "scrambles": [
+                  "R' B2 D' F2 U2 L2 F2 R2 F2 D' F2 R' B L D' F' D F2 U B",
+                  "L F2 U2 R2 B L2 B' L2 F U L' R D' L U2 R2 D B L2",
+                  "U L F U' D L' F L2 D' F2 L' U2 R F2 D2 R D2 L2 B",
+                  "U2 F' L' B2 U L' F2 B U2 L U2 D F2 U2 F2 R2 U2 R2 B2",
+                  "U' B2 L2 R2 U' F2 D' B2 D2 L2 B D' B2 F U2 R D B2 R F"
+                ],
+                "extraScrambles": [
+                  "U' F B2 D2 B2 R' B2 D2 U' R U L' U' B2 L2 B2 U2",
+                  "U F' U' F D' B2 R2 L' D2 R' F' U2 B' D2 L2 B L2 F"
+                ]
+              },
+              {
+                "id": 14,
+                "scrambles": [
+                  "L2 U' D B2 L' B' R2 F' L' D2 R2 D2 B2 L F2 R B U B'",
+                  "R' B' R2 D B' L2 B R' D' L2 B' R2 B R2 D2 F2 U'",
+                  "F2 B2 U L D R' D F D2 F2 R F D2 L2 F' U2 F",
+                  "B' L2 D' B2 L U2 L F D R2 U2 F2 D2 R' U2 B2 L2 B2 D'",
+                  "R D2 L' U2 L2 B U2 B2 R2 D2 F' U' B' U2 F' D2 L' R2 D2"
+                ],
+                "extraScrambles": [
+                  "U B R2 B' R' L2 B D2 R U2 D2 F2 U2 B2 R2 D' R2 F2",
+                  "U2 R B2 F2 L2 U L2 D B2 F2 R2 B D F' D' L2 R' F' L"
+                ]
+              },
+              {
+                "id": 15,
+                "scrambles": [
+                  "U' F2 L B2 F2 L' U2 F2 D F' D R F' R F' L2 D' U2",
+                  "R U' R2 B' D2 F' L2 F R2 U2 R' D R2 B' U R D' R D2",
+                  "B' L D' F2 L2 F' D' R2 U2 R2 L' F2 R L' F U2 F2 D'",
+                  "U2 L2 B2 R2 D R2 U2 B2 R2 D' B' L' R' B U' L B F D",
+                  "F2 U2 R' B2 R' U2 B2 R F L B F' R2 B' D' R2 F D'"
+                ],
+                "extraScrambles": [
+                  "B' F2 U2 L2 F R2 B R2 B2 D' F' R2 D F2 D' L F R' F'",
+                  "D L U B2 R2 U' L2 D' R2 B2 L' F D B' R D' R' U F2"
+                ]
+              },
+              {
+                "id": 16,
+                "scrambles": [
+                  "L2 D' R2 D2 U' L' U' L' B L F2 L' D' R' F' R' B'",
+                  "D F B R F R2 U' R2 D2 L' B2 D2 B2 U2 L' B' U2 F U2",
+                  "U B2 D R2 U2 B R2 F' U2 B L2 R' F' L D' B F' U'",
+                  "L U' D' L U2 B U' L' F2 R2 F2 U' B2 D2 R2 D2 B L",
+                  "F L2 F L' B2 U R2 D' R' F2 D2 B D2 F' U2 B2 U2 F'"
+                ],
+                "extraScrambles": [
+                  "B2 R U F' D' R' D B D2 R' F2 D R2 B2 R2 F2 B2 U2 F2",
+                  "L' U D R2 D' F2 L' U' L2 D2 R2 F2 D2 B' L2 F R2 L' B2"
+                ]
+              },
+              {
+                "id": 17,
+                "scrambles": [
+                  "R B2 L B2 R2 U2 R' U2 D' F D' B2 U F R B F2 U R",
+                  "D2 L2 D' F2 D U B2 U2 F' D' L2 R B' L D2 U' B' U2 R",
+                  "U2 F2 U2 R2 B L2 R2 B' U2 F' D B' U' R F R2 D F L2 U2",
+                  "U R' F L2 B' L2 U2 L2 F D' F' R2 D2 R' D' R F2 U2",
+                  "U L' R D2 R' U2 L' U2 F' D2 B L2 U2 R' D' R' U' B"
+                ],
+                "extraScrambles": [
+                  "F2 R2 B' F2 L2 B' L2 D2 R2 L U' B D' B' F D' B' R B2",
+                  "U' F B2 R' F D2 L U' D2 F B L2 F U2 R2 U2 F' R U'"
+                ]
+              },
+              {
+                "id": 18,
+                "scrambles": [
+                  "D' R' F2 R' D' L2 B' L2 B U2 F' L D2 F2 D2 F2 L F2",
+                  "R2 F' R2 U' B2 U' L2 D B2 U R F' D2 F' R U' F2 R2",
+                  "F' B L U R F B' U' R D L U2 F2 U2 D2 F2 L2 F R2",
+                  "R' U' F2 L R2 U2 L2 D2 B2 U2 B' D2 R2 U' L D2 U2 B L2",
+                  "R D2 B L2 U F' R2 L2 U D B2 U' L2 D' F2 L B U R2"
+                ],
+                "extraScrambles": [
+                  "D' B2 U2 R' F' D2 F' L2 B' U2 F2 U' R2 B D2 L R' F2",
+                  "B' D' F U2 F' D2 L B' D2 R2 L U2 D2 R' F2 L U2 D2 B'"
+                ]
+              },
+              {
+                "id": 19,
+                "scrambles": [
+                  "R U L' D B' U2 B' U2 F2 L2 F L' F' L' D2 R' D' B2",
+                  "F B2 L' D2 L D2 R' U2 R' F R2 B2 U2 B L2 D' F U L'",
+                  "F' D B2 U D2 R' D2 R U2 R' B2 L F' R' D B' L' R B",
+                  "F' U2 D B R2 F2 B U2 R' L2 D2 R' L2 D2 F2 B' U F R",
+                  "D F R' B L' U2 L U B2 D2 L2 U F2 U' R' D' R D2"
+                ],
+                "extraScrambles": [
+                  "L2 B2 D B2 U' D2 L B L2 B2 U R2 B2 R D2 R2 U2 B2",
+                  "L D' L B2 L2 U2 B2 F U2 R2 F' D2 L D R' D U' B' D'"
+                ]
+              },
+              {
+                "id": 20,
+                "scrambles": [
+                  "F' D B2 L2 D2 U L2 D B' U B F' L' B F2 R D U'",
+                  "L' U2 D R2 L2 D F D2 B' U2 L2 B2 D2 B2 R B2 L' U2 B",
+                  "F' D R' B2 F2 R2 F2 U R2 D' U2 R B2 D B L F R B2",
+                  "R F B U2 B2 D B' U R' L2 U F2 L2 F2 R2 U' F2 B",
+                  "R' B' D2 U' F2 R2 B2 R2 U F2 R B R2 D2 B2 F' D' R2 B'"
+                ],
+                "extraScrambles": [
+                  "F' D' R2 D' F2 D2 B2 D U2 R2 U2 L U2 F' U2 B R D' B' D2",
+                  "F L' R2 B' F2 L2 R2 D2 B' F U2 R2 L B2 D' L F R U L2"
+                ]
+              },
+              {
+                "id": 21,
+                "scrambles": [
+                  "F R L2 D2 R2 B D2 L2 F D2 U2 F R' U L2 D2 R' F U L'",
+                  "R' D2 L2 D' F2 D L2 B2 L B L2 R F R D' U2 F' L2 B'",
+                  "R B' D2 U2 L B2 F2 L' R' D L' U' B2 F' L' D' L R'",
+                  "F L2 U R2 F2 R D2 B2 F2 L U2 L R U' B2 L' D' R B' R",
+                  "R' B2 U B2 R2 D2 L2 U R' F2 U' F2 U' F' R2 B F R2"
+                ],
+                "extraScrambles": [
+                  "L' F2 R F' B' U' R' F2 U F2 R2 B' U2 D2 B R2 B L2 R",
+                  "F U2 R' D2 L B2 L B2 L2 B' L2 B U B' D' L2 B L B"
+                ]
+              },
+              {
+                "id": 22,
+                "scrambles": [
+                  "B L2 B2 D2 L2 B' U2 B R' F2 D' B' L U2 R' B' F U R",
+                  "U' F' L B2 R B U R2 F' D2 R2 B L2 U2 B R F2 D'",
+                  "D' B2 U' F' D F D2 R F2 U2 F2 B2 R2 D2 R2 D B L' D2",
+                  "D B' L2 B2 F' D2 L2 F2 D' B2 F2 L2 B2 L D' B2 L'",
+                  "R2 D2 R2 U L2 D F' R2 D U2 R' F2 L' D' L D2 L B"
+                ],
+                "extraScrambles": [
+                  "D' F' U2 F2 U2 L R2 D2 F2 R' F' L F R D' L' R2 U L2",
+                  "U L2 B2 D2 B2 D' R2 L' U' R D2 L U' F' D2 L' B' D U2"
+                ]
+              },
+              {
+                "id": 23,
+                "scrambles": [
+                  "D2 F2 L2 U L F L D L2 F' L U2 F2 U2 R' L F'",
+                  "F B2 L' D F2 U2 D B' L' D L2 U' R2 B2 D2 F2 B2 R' B2",
+                  "F L' U2 R L2 B R' D F U' B' D2 R2 F2 U2 L2 F2 B L2",
+                  "B L2 U' D2 F' L' F' L B' R' U F2 B' D2 B2 U2 D2 B D2",
+                  "R' U2 B2 R' D2 F2 U2 B2 L2 D' L' B R2 D2 F2 D U' F D"
+                ],
+                "extraScrambles": [
+                  "F' U' B D' F R2 D2 F2 D F' R' L2 D' F2 D' R2 F2",
+                  "R' U2 F D F' B2 U' L2 B2 U2 F2 L B2 D2 R' F2 B' D2 F"
+                ]
+              },
+              {
+                "id": 24,
+                "scrambles": [
+                  "B2 U2 B' R2 U F B' R D L2 D2 B2 R2 B2 L2 U' B' L B",
+                  "F' L U' B2 R' B U F' U D' F D2 B' D2 F2 R2 F' U",
+                  "U2 L2 B2 D2 B' U2 F R2 F D' L' U2 B' U2 B' R' F R2 D'",
+                  "B' L U' R' B' D F L' B2 D2 L' U2 R2 U2 F' R F2 R2",
+                  "D2 L B2 D2 R' D2 B2 F L2 B' D2 R' D' L2 U B U2 L'"
+                ],
+                "extraScrambles": [
+                  "R2 U B2 F2 L2 U2 L' B R D' F' U' F L' U' L' F'",
+                  "L' U F' R' D2 L2 D F2 D2 B2 L2 D F' U2 L R B' R' U'"
+                ]
+              },
+              {
+                "id": 25,
+                "scrambles": [
+                  "R U' F2 R2 B2 F2 U' L2 R2 F' L U2 F2 U2 L' U2 F' L' B'",
+                  "F2 L D2 B2 L2 R' D2 L2 F' D F2 D2 F' L' D' L R' B' F2",
+                  "U2 R2 B2 D B2 U R' B U2 L2 F' R' D U2 R' F' U' F2",
+                  "R2 U' L B2 F2 D2 L' B2 F' D2 U F L U R2 D F2",
+                  "F D L' B' F U2 B R2 U2 F L2 U' B R' F' R2 B' F2"
+                ],
+                "extraScrambles": [
+                  "L D B D R2 D' F' D' L2 D B2 D' F2 U B2 U2 L D",
+                  "D2 B2 D' F' R' U B U F L' D' L2 U B2 D2 L2 F2 U B2 D2"
+                ]
+              },
+              {
+                "id": 26,
+                "scrambles": [
+                  "U' F' U' R B' R U' B2 U2 L F2 L' B2 R U2 L B' L U",
+                  "R' L D R' F2 B' R D' L2 F2 U D' F2 D' F2 R' B' U F'",
+                  "L D2 R B2 R2 D B L' R2 B2 D F2 U2 F2 U' R2 F R F2",
+                  "R' U' R2 U' F2 U2 B2 D' R B' U F R2 D2 R' U2 L' U2 F2",
+                  "L' D F2 D' R2 U D2 R' L B D' F L2 B2 R2 L2 B R2 U2"
+                ],
+                "extraScrambles": [
+                  "B2 U R2 F2 U' R2 D2 B2 U R' B F L' U' B' R D' L U R'",
+                  "B2 L2 B2 U B2 F2 R2 B2 D' R' U2 L' B' F L' U2 B2 L D R2"
+                ]
+              },
+              {
+                "id": 27,
+                "scrambles": [
+                  "D R' L2 F2 R2 F2 D' B2 U2 R2 B R2 B R' U2 B D2 F' U",
+                  "L2 D F2 U' F' R B' U2 L2 U2 L' D2 B2 R' L2 F2 B R B",
+                  "F D L R F2 L' B2 L B2 U2 F' R B R2 B' R2 D F' U'",
+                  "L2 U B2 D' L2 U' L2 U' B L' F R' D L2 F L2 U2 B2 F",
+                  "U L2 D' L2 U' L2 R2 B2 F L2 B2 F U B F R U R2 F'"
+                ],
+                "extraScrambles": [
+                  "D' L' B2 D2 B2 R' D2 L F2 R' D2 F L D L' D2 R B' F2",
+                  "U' L2 D' L2 F2 D L2 R2 B2 D2 L D L R2 F U' F2 L U'"
+                ]
+              }
+            ],
+            "extensions": [
+              {
+                "id": "org.worldcubeassociation.tnoodle.SheetCopyCount",
+                "specUrl": "",
+                "data": {
+                  "numCopies": 1
+                }
+              }
+            ]
+          },
+          {
+            "id": "333-r2",
+            "format": "a",
+            "scrambleSetCount": 26,
+            "scrambleSets": [
+              {
+                "id": 28,
+                "scrambles": [
+                  "F' R2 U R2 U' F2 R2 F2 R2 U2 B' D2 R B2 U2 R D R' D2",
+                  "D U B2 D U2 L2 U' F2 B L' B F' D2 R F2 R B' U' R2",
+                  "B2 R2 D2 L' D2 B2 R' B2 L U2 F D' B' F D L F2 U' L",
+                  "B2 D' L2 R2 U' R2 D L2 F' L' U L2 F2 L' R' U' B' D F'",
+                  "B' U2 R B2 L' D R B' U2 L' F D2 B' D2 R2 D2 F B' D'"
+                ],
+                "extraScrambles": [
+                  "D' L2 B2 R2 U2 R' F2 R' B' D2 R U F2 U2 L' F' R2 U'",
+                  "R U2 F' B2 R D L U' R' U2 B2 R' D2 L' U' L' B'"
+                ]
+              },
+              {
+                "id": 29,
+                "scrambles": [
+                  "R2 F2 R' D2 U R U2 F2 R' U2 F2 B L U' R2 D2 R F'",
+                  "B U2 R B2 D2 B2 U2 B L2 F D2 B U' L D2 L2 D R B'",
+                  "R2 F2 U2 L2 D' B2 D2 F2 L U2 L' U R2 U2 L U2 B' D U'",
+                  "L R2 F2 U2 R2 F L2 F' L2 U2 B L' B' U' B L' U R' B2 L'",
+                  "R' F L' R2 F2 D2 U2 L F2 D2 L2 U2 F D' L' R D L B"
+                ],
+                "extraScrambles": [
+                  "U' R B2 R2 B D B2 R2 F' L' D2 L2 U' D' L2 B2 U2",
+                  "R' U2 B2 L D2 R' U2 R2 F2 U2 R' F' U2 R2 F' L' U' B R"
+                ]
+              },
+              {
+                "id": 30,
+                "scrambles": [
+                  "B2 D R B' D L' U' L' U2 F' R U' F2 R2 U' L2 B2 U2 R2",
+                  "B' D2 U L2 U2 R2 F2 D B2 F2 L2 F' U2 L U' R' F L' B2 D'",
+                  "U2 L2 U B' U2 L2 D2 R F2 U2 R B2 D' L R B2 U L2 R2",
+                  "D' F' R2 B' F2 D2 U2 R2 F R D2 L' B L2 D' B2 U' R B",
+                  "F' L' F R2 U' R' U' F2 D2 F' D' U2 F2 R2 D2 B2 R L"
+                ],
+                "extraScrambles": [
+                  "R2 U2 F D' L2 D B R' D B' D' F B2 U2 B R2 F R2",
+                  "L2 B2 U' F2 R' B2 R' F' U' D2 R U2 L2 F2 L D' B2"
+                ]
+              },
+              {
+                "id": 31,
+                "scrambles": [
+                  "F2 R' U B2 U' R2 F2 L' B2 D2 F D2 R2 D2 R' U' R",
+                  "R2 D2 R2 F' R2 B' R2 B D2 U' L2 D' B F L2 U2 R' B D2",
+                  "R2 D2 R2 D2 U2 B2 L F L2 D L' B2 F2 R U2 F2 U' R'",
+                  "R' F' R2 F2 L2 F L2 R2 D2 R F R' D U' B2 L' B2 L' R'",
+                  "B' R' D2 B2 R2 F' L2 R' F D' F R D F' L2 D'"
+                ],
+                "extraScrambles": [
+                  "D2 L2 D2 L2 F2 U2 B R F' L' B L B L' R' B' R2 U'",
+                  "U' B2 R' U L F B2 U' R F2 B2 U2 R' D2 L' U2 F2 B' U'"
+                ]
+              },
+              {
+                "id": 32,
+                "scrambles": [
+                  "D R U' L2 D B2 F2 L2 U B2 R U' B' F2 D2 F' U B D'",
+                  "R2 U' R' U2 F' D2 B' F' L2 R2 B' D B2 U B L' D2 B2 U",
+                  "L2 U2 F' U R' F' L2 F U2 R' L2 U2 D F2 D' B2 D B2 D' R'",
+                  "R2 U2 L2 B2 D' L2 U L B D F L' U2 R D2 F2 L R'",
+                  "R D' F2 L' U2 F' R2 B' D' F D F2 B2 R' U2 D2 R' L'"
+                ],
+                "extraScrambles": [
+                  "B2 R U' R2 F2 U R2 D' F2 R2 D L2 B' F L' D2 F L D' R'",
+                  "U R F' D F2 L2 F2 D U R' B' F2 D2 L B U' F2 U'"
+                ]
+              },
+              {
+                "id": 33,
+                "scrambles": [
+                  "B2 L' D' B D2 L U2 B2 D2 R' B2 L' D' U' L' F D2 F' L",
+                  "B2 D U' F2 D L2 U2 F L R2 U' F2 D' U B' F L D R",
+                  "F D' B F' L2 B' U2 B D2 R2 F' D R U' L D F' D2 L",
+                  "B L2 U L2 D L2 R2 D B L2 D2 L D B' R F D R",
+                  "D' R2 U B2 U2 L U2 L' D2 B' D R' D' R' D B' L"
+                ],
+                "extraScrambles": [
+                  "L2 D' B' L2 F L B' U' B U' F2 L2 B2 L2 B L2 D2 R'",
+                  "B L2 B L2 U' L2 B D' L' B2 L2 F D2 B R2 B' R2 D'"
+                ]
+              },
+              {
+                "id": 34,
+                "scrambles": [
+                  "B2 R B' R L' U' B' L2 B' R L2 B2 D2 B2 U B2 R2 F",
+                  "L' F2 R' F2 L' B2 L' D L2 F R2 D R' D2 L D U' R'",
+                  "R2 D F U F2 D' R2 D' L2 F2 D' B2 U' R D' L' U' R2 U",
+                  "R D B U L B L F L2 U2 B2 R2 F2 D' B2 R2 D L2 U F",
+                  "R2 U B2 D' L2 U B2 R2 D2 B' F' D2 R2 U B F L' U2"
+                ],
+                "extraScrambles": [
+                  "L2 U2 F2 U B2 R2 U2 F' U B D B2 U L' R2 B' F' R' U2",
+                  "D' L2 B2 D' U' F2 D B2 U B2 R' F' L2 D R F2 L' R2 U2"
+                ]
+              },
+              {
+                "id": 35,
+                "scrambles": [
+                  "R2 L' U' B' R2 B R U' D2 L' R2 D R2 D F2 D F2 D2",
+                  "L B2 R B' D2 B2 F R2 U2 B' R2 U' B2 R2 D F' L2 B' U",
+                  "U2 D2 B R2 B2 U' D R B2 U' F2 B D2 L2 F D2 R2 F' R2",
+                  "F' R2 D2 B L2 U2 F R2 L' D2 U2 R' D' F' D2 F2 R D2 L",
+                  "F2 D' B2 U F2 R2 U F2 U' R B2 R2 U' B L F D2 F' R2"
+                ],
+                "extraScrambles": [
+                  "D2 L2 F2 D2 U2 R2 F' D L2 B2 F' D F' R' B2 L2 U F2",
+                  "U F B2 U2 L2 U2 R D2 F2 R B' L' F R B' U' B' F R"
+                ]
+              },
+              {
+                "id": 36,
+                "scrambles": [
+                  "F B R' U' R' D F' U' F2 L' U' D2 R2 D2 B' U2",
+                  "R U B' U B' U' F R' F2 U' L2 U2 D2 L U2 F2 L B'",
+                  "R2 D' B' U2 L2 F' L2 D2 U' R2 D R B L F L",
+                  "L U2 F U2 F' D2 L2 B' L F' U' L R F R B' D B'",
+                  "F L2 D' R2 B R U2 B L' F2 L2 U' D2 B2 D2 R2 D2 R'"
+                ],
+                "extraScrambles": [
+                  "R' D R U' D F R B R' D2 R2 L B2 U2 R F2 B2 R2 F2",
+                  "B D F U' F2 L2 R2 F L2 B' D2 U' F' D R' F' R2 B2"
+                ]
+              },
+              {
+                "id": 37,
+                "scrambles": [
+                  "L' B' R L F2 L' U' L2 B2 R2 F' D2 F2 U2 R2 F' L2 D2 L' D",
+                  "U' F L B2 R B R' B2 D' F2 B2 R2 B2 R' L' F D",
+                  "B' L2 B' F2 D2 L2 B R2 D2 L U F L D2 B2 F R' B D2",
+                  "D2 F U2 D L' U2 L2 U B U2 R' U2 D2 L2 F B U2 B",
+                  "D' L' D L B F U2 R2 F' U2 L2 B U' B' F D' B F' L2"
+                ],
+                "extraScrambles": [
+                  "B2 R2 D U B2 L2 D R2 U F2 L' B2 F' L' U2 B F' U2 R",
+                  "B2 L R2 D2 B2 L' R' D2 B D R2 B2 R U' R D2 B L R"
+                ]
+              },
+              {
+                "id": 38,
+                "scrambles": [
+                  "F R' L F D B L F2 L2 U' F D' B2 L2 U2 F2 R2 U",
+                  "D' F R U2 F2 R' D2 R F2 R' B2 L F R' D' B2 L2 U F",
+                  "R' B2 R U2 R2 F2 U2 F2 R2 D' R' U F' U' F' U B L' R2",
+                  "D' U2 R2 B2 L U2 F2 U2 F2 R2 F D' B F' D2 L F D B'",
+                  "L D' B L' F' D' L' U' F' D' L' R2 D' L2 F2 R2 B2 U'"
+                ],
+                "extraScrambles": [
+                  "L R2 F2 D B2 U2 L2 R2 F2 R U B' F2 L R' U L2 D'",
+                  "U2 L2 U F2 L' D B' U2 R' D' R2 F2 U' F2 D' L2 D2 R2 U'"
+                ]
+              },
+              {
+                "id": 39,
+                "scrambles": [
+                  "U B2 L' F2 D2 B2 D L2 D' U B' D2 U R B F2 R2",
+                  "U' R' B L2 D' L F D L U2 F2 U2 D2 L D2 B2 L2 B' R",
+                  "B2 R F2 L U2 L2 U2 B2 R' D' R2 F2 L D2 B2 R2 D' F' D",
+                  "L U2 L' D2 F' U F' R F' R2 D2 B2 U2 F' B' D2 B L2",
+                  "U2 F L2 B2 L2 F L2 F' U B2 U' L' R' B' F R2 U R2"
+                ],
+                "extraScrambles": [
+                  "F2 R2 L B2 U D R2 B2 L F D' R2 F2 R2 F2 R' D2 L2",
+                  "D' F U R2 L2 U2 R' U2 D' F2 R' F B' L2 B' D2 F' D2"
+                ]
+              },
+              {
+                "id": 40,
+                "scrambles": [
+                  "U L2 B U2 L U2 B2 D' F2 L2 F2 D' L' F U B R' B2 F2",
+                  "F2 D' B' U2 R2 B' R2 D2 U2 F L' B2 L D' B2 D2 F2 R' B'",
+                  "B2 U2 B' D B2 D2 L' B2 U2 F2 L' B' L2 D' B2 D' B2 L",
+                  "U2 R2 L2 B' L' B2 L' D L2 U L2 U2 F2 U2 F2 U2 L U' R2",
+                  "U R2 D' L' D' R' F U B2 R F L2 U2 L2 U2 F' B' U2 F'"
+                ],
+                "extraScrambles": [
+                  "L' D2 R2 D2 B F L2 F U' L' D B' F2 D' U L' D U2",
+                  "R D B U' D2 L' U' F U2 D2 F D2 L2 U2 L2 R U' F' D2"
+                ]
+              },
+              {
+                "id": 41,
+                "scrambles": [
+                  "U L U2 L D B' D2 F' R U2 R' U2 B2 U2 L D2 L U2 F2 R'",
+                  "D B R' F' L U2 R U' R B D' R2 U' F2 U D B2 R2 B2",
+                  "U' F R2 U2 D' L' U2 B U' B L2 B2 D2 B2 R' B2 D2 U'",
+                  "L D2 F L B' R2 L U' L F2 B2 R' B2 L' F2 B2 R2 U R2",
+                  "D F' R L' F2 U' F' L B' L2 F2 U R2 L2 D' R2 U' R2 D' B2"
+                ],
+                "extraScrambles": [
+                  "B2 R2 D2 U' F2 L2 R2 D R F2 L' F' D B2 U L2 U2 F",
+                  "F R2 D2 F2 R2 F U2 B2 U2 R' U' B' L' R B U' R F D2"
+                ]
+              },
+              {
+                "id": 42,
+                "scrambles": [
+                  "L F2 U2 L R' D2 U2 F' R D F2 L2 D L' R2 F2 L B2",
+                  "D' R2 F' L' D2 R2 F B' U D F2 U' L2 R",
+                  "B L B' U' R L2 F U L2 F L2 F' L2 D2 B D2 L' B'",
+                  "F' R D L2 R2 U2 F2 R2 D' R2 D' R2 L D' B' F' U B' R2 U'",
+                  "U F2 D' L2 D' R2 L' U' L2 D B D' U2 L R' D L2 F"
+                ],
+                "extraScrambles": [
+                  "U F2 R L2 U2 L2 F' D' B' U B2 R2 D' L2 F2 U2 B2 D'",
+                  "L2 U R' L U F' D' R' F2 B L2 F' U2 R2 D2 L2 F2 U' D2"
+                ]
+              },
+              {
+                "id": 43,
+                "scrambles": [
+                  "F' U' B2 R2 B2 U2 L2 D2 R2 B2 F' R B' U B R2 B2 L2 R2 B'",
+                  "R L U' F' L' U2 F U' L' B' F2 D2 F2 L' F2 R' U2 D2 L2",
+                  "R B2 L F2 D B' U' B R' L' F2 U' L2 U2 B2 R2 L2 D2 F'",
+                  "B U L2 F' U2 R' L D L F L2 F2 B D2 L2 F' D2 L2 B R2",
+                  "D' F2 B' D R2 D2 B L2 D2 B2 D' R2 U2 D' F2 L F R B"
+                ],
+                "extraScrambles": [
+                  "D2 L2 D2 B' D2 U2 B R2 U' R2 B2 L' U F2 R B R' B R'",
+                  "B2 U' B' D2 F2 D2 L2 F2 D' F2 D' U B R U L' R' D U2 R2"
+                ]
+              },
+              {
+                "id": 44,
+                "scrambles": [
+                  "U2 B2 F2 L2 R U2 R2 B2 D F' L' D' U F' U2 L' D2 B L2",
+                  "R' U' B2 D B2 D2 B2 U L2 B' R' B' L F D' L B' L F2",
+                  "R' D' R2 F' L B2 D' F' D' F2 L2 F' L2 U2 B U2 B R2 L",
+                  "U2 B2 L U' F B' R' B2 L' F L2 F2 D F2 U2 F2",
+                  "U' L' B L' B2 D2 L2 B' D' F2 U R2 F2 U' R2 F2 B2 L2"
+                ],
+                "extraScrambles": [
+                  "R' B2 D' B2 L2 D' B2 L2 U' L2 R' B U2 R U2 L2 F' L F2",
+                  "F R' B2 D' F2 R F2 D2 B L2 D F B2 R2 U2 L2 U2 B'"
+                ]
+              },
+              {
+                "id": 45,
+                "scrambles": [
+                  "F' R L' D' B D F D' L U' L2 B2 R2 D F2 B2 U L2 B",
+                  "L' U2 B' U2 D R' L U L F2 U2 F' R2 B2 R2 B D2 L2 U2 L2",
+                  "D' R2 B2 D U2 R2 D2 F L' D2 R F2 U R B2 D' L' F' D2",
+                  "F B' U R L' D2 F' L' U2 L2 F2 U2 D' L2 U' R2 B2 U R2 L",
+                  "B' D L' F2 D F2 R2 B2 R2 D' U2 B2 U' R F L2 R2 U2 L F'"
+                ],
+                "extraScrambles": [
+                  "D L2 U2 B F2 R2 D2 B' F2 L2 D2 R' B D2 L F' L2 D F",
+                  "L B2 L2 D2 B L2 F' D2 F R U2 L F' U' R' D F2 U' L'"
+                ]
+              },
+              {
+                "id": 46,
+                "scrambles": [
+                  "B2 U' D' L D2 R B D F2 R2 F L2 B' L2 B' R2 B' L2 F2 D'",
+                  "L D' B' L2 D2 F2 R2 U2 L' U2 B R2 L2 U2 B R2 F' D2",
+                  "L' D2 B U2 L2 D B R F2 U2 R' F2 U2 F2 R2 U2 L' U F",
+                  "L' F2 L2 D2 U2 R' B2 L' U B L B D B' F2 U R' U B'",
+                  "U' R' F2 L' U2 L' R' U2 F2 B' R2 D' B U' B U F' D' L"
+                ],
+                "extraScrambles": [
+                  "L' R2 U B2 D F2 U2 B2 D U2 L R' F R2 U2 R F D U' F'",
+                  "U L2 F2 U F2 L D' F L2 U L2 U2 R2 F2 U2 D R2 B L2"
+                ]
+              },
+              {
+                "id": 47,
+                "scrambles": [
+                  "L' D' L2 B2 F R2 U2 B' D2 B' D F L' B2 L B' L F",
+                  "U L2 D2 L' D' B' U L' U2 R2 U F2 B2 U L2 B2 U2 B D",
+                  "U' L2 F2 D2 U2 R2 L' D' B2 L F2 R2 B' L' D F2 R U'",
+                  "B2 D F2 D2 R' D2 L' U2 R2 B D2 R2 F' L2 U2 B2 R2 U R2",
+                  "R B2 U2 R' U2 B2 L' D' R' F' L D2 L2 R2 D' R' B' R"
+                ],
+                "extraScrambles": [
+                  "U2 F' B' R' F' R' D R' L2 U R2 D' R2 D L2 U2 L' U R2",
+                  "F2 U2 B2 U2 L B2 L2 R D' F2 U R' D2 R2 B' L B2 F' R'"
+                ]
+              },
+              {
+                "id": 48,
+                "scrambles": [
+                  "L2 B2 L2 U' R2 F2 R2 D' F D L F' R D B2 D U' R2",
+                  "R' D2 L2 B2 L B2 L' F2 D B' R B F' R2 D2 R2 D L' D2",
+                  "U2 R' D' B D2 F U2 B R2 D2 B2 U B R D B2 D2 L2 R'",
+                  "D F2 L B2 D F' D2 R2 L' D' U2 B' U2 R2 D2 R2 F D2 F U2",
+                  "U2 B' U L' B R' D' R2 B' L2 D2 B L2 U2 D2 F D' F' D2"
+                ],
+                "extraScrambles": [
+                  "B' R' D U2 R' F2 L' B2 L U2 B' U F L' U2 F2 D R2",
+                  "U' B2 R' D' F R D2 L' F' L2 U D F2 D2 R2 B D'"
+                ]
+              },
+              {
+                "id": 49,
+                "scrambles": [
+                  "D2 F B2 R2 U2 L2 U R2 B2 R2 F2 B' R' B U2 R2 U' L R2",
+                  "R2 D' F D' R L F U' B' U2 B2 D R2 B2 R2 D2 R2 U2 B2",
+                  "F2 D' L2 D' U F2 D2 L' D B R' B' L B F R2 U2 R",
+                  "B2 L F2 R F2 L F2 D2 R B2 U F' D U2 R2 U B F' D2 L",
+                  "R2 D' B2 D' F2 U2 B R' F' D' R U' B2 L U F R D"
+                ],
+                "extraScrambles": [
+                  "L B2 U2 F2 L B2 L R' F U B' R' D2 B L' B' D R' F'",
+                  "R2 B' U2 F U2 R D U2 R B2 U2 R' B2 L2 F2 U' L2 D2"
+                ]
+              },
+              {
+                "id": 50,
+                "scrambles": [
+                  "L' U2 L2 D' R L' D2 F' D F2 U2 R' D2 F2 L' U2 D2 R",
+                  "F' B' U' R' B' L2 U' L U' F2 D2 L2 U L2 D' R2 F2 L' F'",
+                  "D2 B2 R2 F' U2 B2 R2 F' L2 U' R B R2 D2 F D R' F L2",
+                  "B R D2 R2 U2 F D2 B' U2 F2 D' F' R U2 R2 F' L' U R2",
+                  "R' F2 D R B2 U2 R2 D L2 B2 D R2 B R' U' R D U2 B2"
+                ],
+                "extraScrambles": [
+                  "B U' R' F R2 U2 F2 U2 R2 F D2 R2 L U B R B L' R'",
+                  "F2 D R F2 U2 B D2 B U' B R' U2 F2 R2 F2 L' B2 D"
+                ]
+              },
+              {
+                "id": 51,
+                "scrambles": [
+                  "R' B' R L2 D' R2 D2 F U L B D2 F' D2 L2 U2 B' L2 F",
+                  "L2 U2 L2 U' B2 D2 B2 U R2 B F L F2 R F' U2 L B R'",
+                  "D' B2 U2 B2 U' F2 U' L' F2 R2 B2 F' R' D U B R2 D2 U2",
+                  "R2 D' F' L D' F2 D2 B' U' F L2 D' R2 U D F2 U2 F2",
+                  "R' U2 L' D2 B2 R F2 L2 B' D' L2 B2 R U L' B' R2 D' R'"
+                ],
+                "extraScrambles": [
+                  "B R2 F R2 D' R' L U2 D2 L' B2 U F2 U B2 U' D' B2",
+                  "U2 D' B' D L2 U F' R D' L F' U2 R F2 R B2 R' L2"
+                ]
+              },
+              {
+                "id": 52,
+                "scrambles": [
+                  "R2 B R2 B F' R2 F' U2 F' U2 R' D U2 L2 B' D2 B' F D' R2",
+                  "U2 B' D2 F U R F2 U D2 R2 B D2 B U2 R2 D2 R2 D' R2",
+                  "R2 U2 B L2 B' U B' R2 F2 R2 F2 U2 B2 D R2 U' L U R",
+                  "U' L' F2 D2 F R2 B' R2 F2 L2 U2 L2 R' B2 U' L' R2 D2 B2",
+                  "R2 U2 L2 R U2 R U2 B2 F2 U' L B R' B R' B D F2 U2"
+                ],
+                "extraScrambles": [
+                  "D2 U2 F2 L' D2 L' U2 B2 R2 B R' F L U' L' R' D' U'",
+                  "L2 D' B R' D2 U2 L2 D2 B' F R2 B U' R D L F' D L"
+                ]
+              },
+              {
+                "id": 53,
+                "scrambles": [
+                  "D B2 R2 B2 L2 D' R2 F' L' B U F' U2 R B R2 B2 U B2",
+                  "U B2 U2 F2 L D2 L2 R' D2 B2 F' D2 L F2 L' D' B F",
+                  "B' L' U' B2 U B2 L2 B2 U' F R U' B' L' D' F R' U' B2",
+                  "D2 B D2 B D2 L2 B' U L' B' R B' R2 D U' F' L' R2",
+                  "F R' U2 L2 B2 U' F L2 B2 U' D B2 R2 D2 B2 R"
+                ],
+                "extraScrambles": [
+                  "D' U' B2 F2 R2 B2 U' L2 B R B D' F2 R B' F' L F L",
+                  "L' D L2 B2 D R2 U F2 U L2 R2 B2 L' D2 B' D' F' L' R"
+                ]
+              }
+            ],
+            "extensions": [
+              {
+                "id": "org.worldcubeassociation.tnoodle.SheetCopyCount",
+                "specUrl": "",
+                "data": {
+                  "numCopies": 1
+                }
+              }
+            ]
+          },
+          {
+            "id": "333-r3",
+            "format": "a",
+            "scrambleSetCount": 26,
+            "scrambleSets": [
+              {
+                "id": 54,
+                "scrambles": [
+                  "U F2 D' R2 B2 F2 R2 D' F2 D2 L F' U' L2 F2 R' U R U2",
+                  "D2 F2 U B2 D F2 D F2 R2 L' B' F' R2 D' L2 U2 B2 U2",
+                  "R F L2 B' L' U' B R2 D F2 R2 D2 L2 U D R' U F' R",
+                  "L2 D' B' R' D2 R U' L2 D2 L2 D2 B U2 F R2 D2 U F",
+                  "U' B2 U B2 U' R2 D' B2 D U' R2 F' U2 R D2 U' R' D2 L' D2"
+                ],
+                "extraScrambles": [
+                  "R2 U2 L2 D' B' D L' F2 U2 F D2 B2 D2 R2 U2 D2 F R",
+                  "D F' D B2 U' F2 R2 F2 D2 B2 R F' R2 F' D F U B2 D"
+                ]
+              },
+              {
+                "id": 55,
+                "scrambles": [
+                  "B2 R F R L' U F2 R' F' U2 R2 F2 R2 B2 L2 F R' U B2",
+                  "U L' D' F L B' R' D2 L B F2 R U2 R' D2 R2 F2 B",
+                  "D' F2 R2 D2 F2 U L2 U L2 B' F' L' D2 L' U' L' B' R D'",
+                  "R2 F' U R2 D' L2 D2 L' F D' F2 R' B' L' B F'",
+                  "U D2 R F' L' U2 D B R' U' R2 B2 D' R2 U R2 B2 U R"
+                ],
+                "extraScrambles": [
+                  "U' D2 R' B L2 D R' F' L' U' D2 F B2 U2 F2 B' D2 R2 U2",
+                  "B' U L2 B2 U2 F2 U R' F L' U' L2 B F2 U' L2 B' U2"
+                ]
+              },
+              {
+                "id": 56,
+                "scrambles": [
+                  "U' L2 D2 L2 D B2 R D2 L F' D2 R2 F L2 R' F' L2 U2",
+                  "L2 F2 L2 D2 F2 U2 F2 D' R U2 B' L' D2 B' R B2 L' D F'",
+                  "L2 D' L2 D U F2 D2 F' D2 U' R D F2 L' R2 B' R' B2 L'",
+                  "U B U2 L2 B R2 D2 F L2 D R' F L F R2 B' U F2 R",
+                  "U2 L2 F2 R D2 R U2 R' F D' B F2 D' R D' R2 D U"
+                ],
+                "extraScrambles": [
+                  "B' U2 F L' F' R2 U2 B' R2 D2 R2 B' L' U2 F' L D' R' B",
+                  "F2 D B2 L2 U' R2 U L2 U' B2 R D2 R D' B2 D R F' U2"
+                ]
+              },
+              {
+                "id": 57,
+                "scrambles": [
+                  "B2 L' U F2 L F2 L2 R F2 U2 R U B' R' B R2 B' F' L2",
+                  "R2 D2 R2 F2 D B L' U L B F D' U' L' F2 U' B2",
+                  "L F2 D2 B U' F2 R' F2 L2 U2 B D2 F' U2 R2 L2 D' B U'",
+                  "F R2 F R U F2 D U F2 U2 F2 B' R' D2 U' F' R' B D",
+                  "R F U2 B2 L2 D2 B2 R2 F L' F L2 B2 F U' F2 R' B F'"
+                ],
+                "extraScrambles": [
+                  "L F R' F2 R' U2 L' R2 B2 L2 U B' D' U' B' L R' F' U2",
+                  "F2 D2 F2 D2 L B2 R F2 U2 F D L R2 D U2 B2 L2 F U2"
+                ]
+              },
+              {
+                "id": 58,
+                "scrambles": [
+                  "B R2 U' L2 D R2 L' F D2 F2 U2 D2 F U2 B D R' D' R'",
+                  "R2 D2 B2 L' B U2 L' F2 R' B' U' F2 D2 R2 B2 L2 B2 U2",
+                  "D2 U' F2 U' F2 U' R2 F R' U2 F2 U2 L' B D F2 L F' R'",
+                  "R' U2 F2 D2 R2 D R2 U' R2 L B D2 U2 B2 L2 B U' B2 U'",
+                  "R2 D2 F B' U L' B' D' B L2 D B2 D F2 U R2 U' R' B2"
+                ],
+                "extraScrambles": [
+                  "D2 F D2 B2 R2 D2 B D' F L2 B R' B' D2 L2 D' F2 D",
+                  "B R B' L D' R' U R2 F' D B' R U2 L' B2 R2 F2 R"
+                ]
+              },
+              {
+                "id": 59,
+                "scrambles": [
+                  "B2 R F2 U2 F' D2 B L2 D2 L2 R' D U' L B R' B'",
+                  "R B2 L' F B' U R2 F' D2 B2 L2 F R2 U2 B2 D2 F D2 U' F2",
+                  "L2 U' L2 B2 F2 D' U B' L' R' U F' R D' B' L2 B F D",
+                  "B L2 B2 D B2 L2 U2 F2 R2 U2 F' D' F' D B2 F' L D2 U",
+                  "R' D R2 F2 U2 B' D2 R2 B D2 L2 R2 D L2 B' F' L D2 R' U'"
+                ],
+                "extraScrambles": [
+                  "R B2 L U R' F2 D' B R U F U D2 F2 U D' B2 R2",
+                  "L U2 B2 D' F2 D' R2 D2 B' U R' U R F' D U2 F L'"
+                ]
+              },
+              {
+                "id": 60,
+                "scrambles": [
+                  "B2 D' F' D2 L2 B2 F D2 F L' F2 U' F2 R' F2 R' B D",
+                  "D' R U' L B' R2 D2 L' B U2 R2 F2 L2 D' R2 D F2 D' F2",
+                  "F2 L' F' R' B' U D2 L' D' B D' L F2 B2 L' U2 D2 R'",
+                  "R' D F B L F' U' L2 D' B2 U' L2 F2 R2 D2 F2 D' F U' R",
+                  "L' U D R' L2 F D F' L F' R2 U2 B' D2 F' L2 F R2 L2 F'"
+                ],
+                "extraScrambles": [
+                  "U' L' D' L' F L' F2 U B' L U2 F' D2 R2 U2 B' R2 F2 U2 F",
+                  "D' R' D2 U2 F D2 B' F' L2 R2 B' D B R F2 U' B2 U' B"
+                ]
+              },
+              {
+                "id": 61,
+                "scrambles": [
+                  "L' D' F D2 F2 D2 U2 F' L2 F U R2 U' L U2 R2 D R",
+                  "U2 F D' L2 D F B' D B U' F2 U2 L2 D2 L D2 R F2 B",
+                  "U L2 U' R2 D2 F2 D L2 U' B F' D' L2 D' U2 R2 D' R U",
+                  "F2 D2 L2 F R2 B' F L2 R' B U' L' U2 L B' U2 B2 F2 D",
+                  "F' L U2 R' F2 B2 D2 L2 D' L' F U2 R2 U2 R2 F2 B L2 F'"
+                ],
+                "extraScrambles": [
+                  "B2 D2 L D2 L2 R2 B2 U2 R U R F2 R' F' L' D' U' R2 U2",
+                  "L F' R2 U2 F2 R2 B2 U' F U' B R' D' L2 D B'"
+                ]
+              },
+              {
+                "id": 62,
+                "scrambles": [
+                  "F' U2 L' F U' F2 R L2 D' F2 L2 F D2 L2 F B' U R",
+                  "R B2 R' B2 D2 F2 R B' L' B2 D R B' R F D' U' R2",
+                  "D F2 U2 B2 L2 R2 D2 B' L' R U' R' B D2 R' D U2 F' L2",
+                  "B2 L2 D' F2 D R2 U2 F2 U' F L F' U' R F2 R' B2 L R",
+                  "B2 D2 L' D2 B2 L2 R U2 F2 R D2 U L B D' U R' B' U2"
+                ],
+                "extraScrambles": [
+                  "U2 F2 B D B R' U' F' R U2 F2 R2 B U2 D2 L2 D2 R2 L'",
+                  "U L2 U2 F2 R2 U L F2 R F U2 F2 D' B2 F2 U2"
+                ]
+              },
+              {
+                "id": 63,
+                "scrambles": [
+                  "L B' R F' L2 B2 U F2 L F2 U2 R2 L2 F L2 F2 L2 U F'",
+                  "F2 U' F2 U B2 R2 D' U' F2 R2 D R' B' L' R B U L D2 B'",
+                  "B R2 F' U2 L2 F R2 B2 L2 B2 L B' F U' R D' U2 F R2 B",
+                  "R2 D' F2 U2 R2 B2 F2 R2 D L2 B' D2 L' U L2 B' D' B'",
+                  "D2 B2 L R2 B2 D2 B2 F2 R B' L2 U' F2 D' B' U' L2 U L2"
+                ],
+                "extraScrambles": [
+                  "D' B2 L2 B2 D2 F D2 B L2 R' B2 D' B2 D2 U' F' D2 U2 F'",
+                  "L2 D R B2 L F L' B U L2 U2 B L2 B' D2 F2 D2 B2 L2"
+                ]
+              },
+              {
+                "id": 64,
+                "scrambles": [
+                  "D2 R2 F' B D2 F' L F2 U F R2 D2 R2 F U2 F B L2",
+                  "U' D R' F' B R B U' B D2 F2 D R2 D' F2 D F2 U R'",
+                  "B' U' R2 D F U' R D2 B' R2 B2 D F2 U2 D L2 U2 L'",
+                  "F' U' B R B R2 D R U' R2 U' L2 B2 D' B2 L B L",
+                  "D F R2 U F2 U2 F2 U L F R D' L' D' F2 R' F2"
+                ],
+                "extraScrambles": [
+                  "F' D B R' F D2 B' U' D B2 R2 D2 B2 R B2 L B2 L2 U2",
+                  "R2 U L' U2 B' L' F' R' U2 R2 U B2 L2 D' L2 U2 F' U2 B"
+                ]
+              },
+              {
+                "id": 65,
+                "scrambles": [
+                  "D2 B R U2 D2 F' U2 B2 D2 R' F U B2 R2 F2 U2 L2 D2 L2",
+                  "R2 B' L2 R2 F' R2 B' F L2 F R' U' L B D L2 F' L2 B2 D",
+                  "B' U D2 L' B2 R' B D L R2 D2 L2 B' R2 B L2 F' D B2",
+                  "U2 B2 R2 D' L2 D2 U2 B2 U' R' D2 B F U F2 D B F' L U'",
+                  "F' R2 F' R' L2 F U L2 F2 R' D2 B2 R' F2 U B' L2 F"
+                ],
+                "extraScrambles": [
+                  "R2 U2 D2 F B D' L U' F U' L B2 D2 B2 L D2 R' B2 L",
+                  "R2 D B2 U R2 B' U2 R2 B2 F' L2 F2 L' B F L' R' B2 U'"
+                ]
+              },
+              {
+                "id": 66,
+                "scrambles": [
+                  "F2 D' R2 B2 U' R2 U R2 B L' D' R B' L R2 B' D2 B' U'",
+                  "D R2 F2 U F2 L2 R2 D F R D F2 R D2 L' R' F' L' D2",
+                  "D R' L B L D L B' R' F' D B2 D' B2 L2 U D L",
+                  "B2 L U F D2 R2 D2 B L2 B2 F2 D R2 U' L F' D L B2",
+                  "B2 R' D2 F' U' D R2 B' L U' L2 U L2 U' B2 D2 B2 R2 D2"
+                ],
+                "extraScrambles": [
+                  "U2 D F R2 F' L F D B R' B2 R U2 D2 F2 R' U2 R' F2",
+                  "D2 R U2 R2 B2 U2 L2 R' B' U' B D2 U2 F U2 R' D' F2"
+                ]
+              },
+              {
+                "id": 67,
+                "scrambles": [
+                  "F L' F2 U D2 L2 U2 F' U2 L2 B' L U B' L2 B D' U2",
+                  "U B' U' L2 R2 F2 D U' B U2 B2 R F2 L' B' L' R",
+                  "F D2 B' R L2 B D' F D' F2 U2 B2 U' L2 D2 F2 L2 D'",
+                  "F B' U' F2 L F' D B' R' D2 B R2 F2 U2 B' L2 B U2 L2",
+                  "F2 U' B' L' R2 D L2 U2 F2 D' L2 R U' F' D F D2 B U'"
+                ],
+                "extraScrambles": [
+                  "L' B' L2 B' L2 F' U2 R' B R F' D2 U' R2 U F' R'",
+                  "U B' L F' D2 R2 F2 R2 U2 R2 U' L2 R D' L2 F2 U2 L R"
+                ]
+              },
+              {
+                "id": 68,
+                "scrambles": [
+                  "D2 F' L2 B2 R2 F' D2 U2 R2 D2 B' U L' F D' B' U' R2 U L' F'",
+                  "D F' L' F U R' B' U2 B' D2 R F2 D2 R' U2 R2 L' D L'",
+                  "B L2 F2 D' L F L' F2 U2 R2 F' R2 F U2 L F' R' F",
+                  "B2 U B2 R' U' D2 R2 B' U2 L F L2 F B' R2 B",
+                  "B2 U2 R D2 L2 F2 D2 L2 R' B L' U L R B D' R' F"
+                ],
+                "extraScrambles": [
+                  "D R2 U2 B2 U' R2 F2 D L2 B R' F D2 R D2 U' L R F",
+                  "B F R2 B2 R2 D2 L2 U B' U2 L' R2 U B R2 D' R2 D'"
+                ]
+              },
+              {
+                "id": 69,
+                "scrambles": [
+                  "B L B' U2 F' U' R' B' R L D2 L2 B2 L' U2 F2 U' L2",
+                  "R U' B2 U F B' D' L' B2 R D' L' F2 L2 B2 U2 D2 R2 D2",
+                  "F D' U' F2 D' B2 U R2 F2 R2 L F D F2 U2 B' F' D' L' U",
+                  "B2 R' B2 U2 L R2 F R U B2 D F' L2 F' L' U' B'",
+                  "D2 B' U2 B D2 B F2 L2 R2 U B2 L R F' L U' F' R U' L'"
+                ],
+                "extraScrambles": [
+                  "U' R U R2 B2 R2 D' L2 B L2 R' D2 L' F U2 B L R",
+                  "B' L2 B' L' D2 F D' R U2 F R2 L2 B2 R2 B R2 D' R2 D2"
+                ]
+              },
+              {
+                "id": 70,
+                "scrambles": [
+                  "F2 U B' L' F2 R2 U2 L2 U2 B F2 R2 F R' B2 D' L F D B2",
+                  "D2 B' U2 L2 F' L2 D2 L2 F2 R D L2 R U2 F' D' F U2 L'",
+                  "F U R2 D2 U B2 F2 L2 D' R U' B' D' F2 D2 B D' R' F2",
+                  "D' L2 D' R2 U L2 B2 U' R' B' D' U' B' F D R' F D' L2",
+                  "R' B' R2 B2 D2 L B2 R B2 R F R' D' L2 U B D L"
+                ],
+                "extraScrambles": [
+                  "L' F2 R2 U R D2 L F L2 U2 B U2 D2 F' R2 B R' U F'",
+                  "F2 D R2 U' L2 D' R2 B2 U2 B' D L' R' D B' U2 L B L U2"
+                ]
+              },
+              {
+                "id": 71,
+                "scrambles": [
+                  "F2 L U2 L R2 B2 R' B2 U2 D' F D B' D2 U' R D2 R' F2",
+                  "U2 L' B2 D' R2 L D F B2 D2 R D2 L2 B2 R' U2 F2 B U2",
+                  "B' L' F U2 D' B U' R2 B' F2 D' R2 F2 D' R2 U' F2 D F2 U",
+                  "D2 F2 D2 U2 F2 L2 F R U B' D' R' B' L' B' U' F' D'",
+                  "R2 D F2 D2 U R2 D B2 U' F2 B' R U R2 F' U2 F' L' F D"
+                ],
+                "extraScrambles": [
+                  "R' B2 L' D2 L2 U2 B' D2 F' L2 B F2 D' F2 U2 L' D R' B'",
+                  "R2 F' D2 R B' U' L D R U' F2 L2 F' L2 U2 L2 B2 D2 F2 U2"
+                ]
+              },
+              {
+                "id": 72,
+                "scrambles": [
+                  "B2 D2 U2 R2 D' U2 R' B R F' D' F' D' F' L' D F' R'",
+                  "B2 L2 D2 F L2 B' L2 F' R B' L' U L2 F L2 B2 L' F2 D'",
+                  "L2 B U D2 L D B2 D' B' U' F R2 B' L2 B2 U2 B' L",
+                  "B' U' R' B D2 U2 R2 U2 B F' D2 U R U2 R D' B2 R2 F'",
+                  "B2 L' U R2 F U' D' R L' U2 R2 F2 B2 U B R' B2"
+                ],
+                "extraScrambles": [
+                  "F2 R U2 F2 D2 F2 L2 R2 D' U' L D2 F' L' B R' D U L'",
+                  "U' L' D L2 R2 F L2 B F2 L2 F R2 U' B R' U"
+                ]
+              },
+              {
+                "id": 73,
+                "scrambles": [
+                  "U2 B L' F2 U' L2 U' F2 R2 U2 B2 F L2 R U F2 D2 L U2",
+                  "B' L U F' R' D2 L R2 U2 F' U2 F' U2 L2 F' R' B D' R'",
+                  "F2 D' B2 R2 U' B2 D' F' L' B2 F R' D R2 F' R B' F2",
+                  "R' L B' U' R' U' B2 D' B' R2 L B2 R' U2 R2 F'",
+                  "B U' R2 L' F D2 B D L2 D R U' B2 R2 B2 D F2 U2"
+                ],
+                "extraScrambles": [
+                  "U2 F' R' B R2 F D2 F L2 D' R2 D2 B2 F L2 F R'",
+                  "D2 F U F' R2 U2 D' B2 L2 U2 R2 D2 F2 R' U2 B' D R B"
+                ]
+              },
+              {
+                "id": 74,
+                "scrambles": [
+                  "R' B' D2 R2 D B2 D' L2 F2 U' L2 D2 L' B' L2 R B' F L2",
+                  "L2 U' F U B U2 B2 R2 F2 D L' R B2 R2 U' B2 F",
+                  "B' L2 B2 U' R2 D2 B' L U' D' L2 F2 R' B2 R' F2 R' D2",
+                  "R2 F U' L2 F2 R F2 R D2 B2 R' U2 B D2 L' B' R' F2 U'",
+                  "D2 L D2 L2 R2 B2 D' U2 R2 L B' F' L R' U' F D U L"
+                ],
+                "extraScrambles": [
+                  "D2 U2 B' F2 L2 D2 B D B2 R' U F2 L' U' R D2 B F2",
+                  "B2 R2 D' R2 U2 B' D L' B2 U2 F D2 B L D R' B'"
+                ]
+              },
+              {
+                "id": 75,
+                "scrambles": [
+                  "B' U2 F U2 L F' B R' U2 D2 B2 U2 D2 L F2 R' U L D",
+                  "R L' D2 F U' L2 U' D2 F' R2 U' R2 D' R2 B2 L2 F2 R2 B",
+                  "F' R U2 F' R2 F2 D' B2 D2 R2 L' F' R' U L D B2 D",
+                  "D2 B2 D B' R' F B2 U' F2 U2 R B2 L2 D2 L2 D' F' U'",
+                  "R F B R U' D' L' R2 D2 B' R2 F2 B U2 F2 R F R' F2"
+                ],
+                "extraScrambles": [
+                  "R' D L2 D' L2 U2 R2 B2 U L U B' D2 R F2 D L' D' B'",
+                  "L2 B D2 B' U2 B2 R2 F2 R2 F2 L B' U B' U L' R' B' L' U'"
+                ]
+              },
+              {
+                "id": 76,
+                "scrambles": [
+                  "F' D' F' D2 B' D2 U2 R2 F2 U2 D' R' B L2 F' R2 U2 L F2",
+                  "D B2 L2 R2 D L D B' L B2 L R B F D' R' B2",
+                  "F' R L B' R U R2 F' D2 B2 R2 D2 L' B2 L B2 U L B",
+                  "D B2 R F2 B2 L2 D B2 D' R2 F B2 R2 D2 R2 B' U2 R2 D",
+                  "D2 F D' L F2 D' U' L2 B2 U' B2 F L' B F2 R' U' F2"
+                ],
+                "extraScrambles": [
+                  "U F2 R U' B2 U F' D U2 B2 R L2 F2 L B2 U2 F2 R2 D'",
+                  "F2 L B D' F' R2 U2 R2 F2 L2 F2 D2 L' F2 U F' D2 U' F2"
+                ]
+              },
+              {
+                "id": 77,
+                "scrambles": [
+                  "L2 B D2 L2 D2 L2 F' U2 B R2 F2 R' U2 B L' D' U B' L' F2",
+                  "L' U R2 D L2 B2 R2 F' U L' U2 L' D B D2 U2 L D",
+                  "F' D F R2 U2 B D2 F' D2 B U2 F D' R' F2 L2 B' R B2 L'",
+                  "R2 U2 F' D2 U2 L2 B D' B2 F' U' B' L B U B2 F2 D",
+                  "L D2 R2 U F2 L2 B2 U2 F U' R D' B' D L' D U' R B'"
+                ],
+                "extraScrambles": [
+                  "D2 B2 F' D2 B R2 U2 L2 U2 F2 D' F R B' L' D2 B' R2 D'",
+                  "D R' D2 F B2 U D F2 L B' U2 R2 F L2 B2 R2 F2 D R"
+                ]
+              },
+              {
+                "id": 78,
+                "scrambles": [
+                  "B2 D' B2 D2 L2 F2 R2 D B' F' R' B' R2 D U' F U B D2",
+                  "R2 U2 F L2 D2 R2 B2 L2 R' F L B' D' B' F L2 R U'",
+                  "D' B2 U2 R2 B2 D L2 D' F U F' D L' B F D2 U F L",
+                  "R2 F' D2 L B2 R U' D B' U R2 B2 D2 F2 B2 U' R2 U2",
+                  "R2 D R2 D2 U2 B2 D R2 L D B F2 D2 U' L B' D2 B' U2"
+                ],
+                "extraScrambles": [
+                  "R D2 B' L2 D B2 U2 F2 D U2 L U F' D' L F' L2 R U2",
+                  "F R2 D L' D' F U L' D F2 B U2 D2 L2 F' R2 D2 B2"
+                ]
+              },
+              {
+                "id": 79,
+                "scrambles": [
+                  "F2 U2 F B' L F2 R' U F' D2 F R2 F' R2 D2 F2 R2 F' D2",
+                  "D' R2 D L' F' R' L U' F R2 B R2 B U2 B U2 F' U2 D",
+                  "L U' R' L2 B2 R' D2 B R' F' L' B2 U' F2 L2 D B2 U F2",
+                  "L' U' F2 R B' D R2 D2 B' L2 U2 B D2 F2 B L2 D' F' L2",
+                  "F' L2 F2 D2 F2 D2 L2 U2 R2 F R D2 F U' F2 L' F2 R2 F U"
+                ],
+                "extraScrambles": [
+                  "D L2 D2 F2 R U2 L D2 U' R2 F2 U F L B2 L D' B'",
+                  "U' L2 D2 L' F U2 B2 D R F R U2 D2 B2 L' D2 R2 F2 L"
+                ]
+              }
+            ],
+            "extensions": [
+              {
+                "id": "org.worldcubeassociation.tnoodle.SheetCopyCount",
+                "specUrl": "",
+                "data": {
+                  "numCopies": 1
+                }
+              }
+            ]
+          },
+          {
+            "id": "333-r4",
+            "format": "a",
+            "scrambleSetCount": 26,
+            "scrambleSets": [
+              {
+                "id": 80,
+                "scrambles": [
+                  "R2 F R2 D2 F2 L2 F2 L2 U2 R' F' R' F' U L B F L' D",
+                  "L U2 B2 U2 F2 U2 R' B2 D2 R F' R2 B' R2 B2 U R' D' U2",
+                  "U2 B U2 B2 D' U' L2 D' L' D F' U L R' F2 R' B",
+                  "F R' U R2 D2 B' D2 U2 B2 L2 R' F' R2 D' L' F L2 B2",
+                  "R' F' U F2 R2 D2 L2 R2 F2 D2 F' R2 B L' R2 D B2 R' B'"
+                ],
+                "extraScrambles": [
+                  "D2 R2 F2 U2 B' R2 B' L D B' D' R B2 R2 D' F' D2",
+                  "L' F2 U2 L U2 L2 F2 D L2 D' R D2 L R U L2 F R"
+                ]
+              },
+              {
+                "id": 81,
+                "scrambles": [
+                  "B' L2 F2 L' B2 U' R' F2 R D R B2 R2 F B' R2 L2 F2",
+                  "D B L B2 D R' U' D2 B D' R2 U2 B2 D2 L F2 R2 F2 L2 D2",
+                  "B2 L' F L2 F' L2 R2 F2 U2 L F2 D2 U' B R' F' L R2",
+                  "B2 D' B D' L2 D' F2 L2 D U2 L2 F' U2 F2 L R U F' L'",
+                  "D2 F2 R2 F R2 F2 D2 B L2 U' L' U R' U2 L R2 D' F' U2"
+                ],
+                "extraScrambles": [
+                  "F2 L2 D2 U2 R B2 U2 L' R2 F R D B D' B' L' U' L2 F2",
+                  "R2 F' B2 R2 B2 F2 R2 D' F2 R2 F2 D' R' B' L F' D' F U F'"
+                ]
+              },
+              {
+                "id": 82,
+                "scrambles": [
+                  "B L D2 B2 D R B' U' R F2 R2 D2 F' D2 B2 U2 R2 B' R2 F2",
+                  "F2 R2 D R2 B2 D L2 D F L' F2 R2 B2 U L R2 B'",
+                  "B2 R2 U2 F2 U2 R U2 F2 D' F L U' B2 L B' L' D R2 B'",
+                  "B2 D2 R2 U2 L' D2 R D2 B2 F D' L R2 D' B D2 U' L' B2",
+                  "L B' U' D2 L' D2 L2 F2 R' B2 F2 D B' D R F' R F D"
+                ],
+                "extraScrambles": [
+                  "L U' B' R' F2 L D2 R' F2 L2 D2 F D' B' D2 U2 F2 R",
+                  "D2 R F2 L2 U B2 U' F2 U L2 F U' B D2 L B2 D' B2 L"
+                ]
+              },
+              {
+                "id": 83,
+                "scrambles": [
+                  "B' D L2 B R B2 U F' D' B2 R D' F2 R2 D' R2 U2 L2 B2",
+                  "U B2 F2 L2 U2 R2 L B F U' L2 D R2 F D' U' R' F'",
+                  "D2 F D2 R' L U R2 F B' D' B F2 L2 B2 U2 L' U2 B2 R'",
+                  "U' L B R' F2 D2 L' F2 D2 B2 F2 R F2 B' D' F' R' B L' D",
+                  "F2 U F R2 L' D F' D' R' L D B2 R2 U F2 U2 R"
+                ],
+                "extraScrambles": [
+                  "U2 R2 B2 D' F2 R2 B2 L2 D U R D2 L F R2 F' R B' L' D2",
+                  "B2 L2 B' L U' D' B2 U' F2 L' U2 R' F2 U2 B2 D2 L U' F"
+                ]
+              },
+              {
+                "id": 84,
+                "scrambles": [
+                  "D2 B L2 B U' B' L' F B' L' U F2 B2 R2 U2 F' U2 F",
+                  "L D2 B2 L F2 U2 R2 B2 U2 D F' L U B' D2 F' L D2 L2",
+                  "F2 U' F' L' B U2 F' L2 D2 F2 U2 L U' F L2 D2 R' F2",
+                  "D2 B U' D' B' R' U2 F L' F U L2 U' D2 L2 U' B2 D L'",
+                  "U L U2 F' L2 D2 L D2 R U2 D' R U' R' D2 B' D"
+                ],
+                "extraScrambles": [
+                  "B2 D L2 R2 D2 F2 L2 B D2 L' U2 F L' B R' U B2 D F'",
+                  "B2 U2 R F R D2 F' R D' B L' D2 F B2 D2 F' U2 F' D2"
+                ]
+              },
+              {
+                "id": 85,
+                "scrambles": [
+                  "R2 F2 D2 L F2 D2 L' D2 U R2 F L' B' F2 U' L' D L' R'",
+                  "L2 U R2 D' B2 L2 F2 D' R2 L' U R' F2 U B L B2 F2 L'",
+                  "R' B2 F2 R' D2 F2 U2 B' D' F' R' B' F2 U F U L' R2",
+                  "U D2 R2 B' R L F D' B D' F2 D F2 R2 U' R2 D' F2 L",
+                  "L' B' D' R2 D' B2 D' F2 U' R2 D2 R U' B F2 D F U2 F2"
+                ],
+                "extraScrambles": [
+                  "U2 F2 U' L' F2 U R D F2 L2 F' D2 F U2 F' U2 F'",
+                  "F' U2 B' R' B2 D2 L D2 B2 L2 R' U2 F' D B2 F D2 B2 R2"
+                ]
+              },
+              {
+                "id": 86,
+                "scrambles": [
+                  "D2 R2 U D2 B2 R' U2 R F2 R U2 F2 B L' B F R' B2 R'",
+                  "F L2 F2 D R2 B2 D2 U B' L2 D2 L' D2 R2 B' F2 D' B2 F",
+                  "L' D2 F2 D2 L U2 R' U B U R B' F' D' L' R U",
+                  "D2 R' B2 U L2 F' D2 F' U2 L2 F' L' F2 L' B F2 D' B'",
+                  "L2 R2 D U' L2 D U2 L F U2 R D' L2 F' L' U' F2 R2"
+                ],
+                "extraScrambles": [
+                  "F' U B' U B' L F2 R U' R2 U2 R F2 D2 L' D2 R' F2 R2",
+                  "L F U2 R2 F2 L2 D F2 D2 U B L R2 B D' B' F'"
+                ]
+              },
+              {
+                "id": 87,
+                "scrambles": [
+                  "L' R B2 U2 L B2 D2 L F U2 R D' F' L2 D U' L F2",
+                  "L2 D2 L2 U' F2 U2 L2 U R2 B2 L2 R' D2 B' U2 R U' F' L R",
+                  "R2 D2 B' U2 D L B' D' U2 B R2 L2 B R2 B2 U2 R2 L2 D",
+                  "F' U' B2 U2 L' B2 L2 D2 F L F2 L B' U B2 D U",
+                  "D R' D' B2 L2 U R2 F2 D' R2 B2 F D2 F' D' L B' D U2"
+                ],
+                "extraScrambles": [
+                  "U' F' L D' R D2 B2 U' L2 F2 D' L2 B U' B2 L2 F' D2 B2",
+                  "L' F L' D B' R F' U' L D2 L D2 F2 D2 R2 B2 F R2"
+                ]
+              },
+              {
+                "id": 88,
+                "scrambles": [
+                  "F L F2 U2 D B2 R' L' D2 B L U2 R2 U' D L2 F2 D' R2",
+                  "R2 F2 L2 B' U2 F2 L2 U2 R' B' L2 F2 D U' F L2 U' L2 D",
+                  "F' B R2 D L U F2 U L F D' U2 B D2 B2 L2 F'",
+                  "D2 F2 U2 B2 D U' B2 L D' L2 B' D' L' R' U R F' R F",
+                  "R F2 B' U' R' L U D' L' B D2 R2 F B2 L2 B L2 D2 F'"
+                ],
+                "extraScrambles": [
+                  "B' U' F2 R' U2 B2 L' R F2 B' U' L' D2 F2 L' B R2 U",
+                  "U D R' F R' L' B R U' R U B2 D' F2 L2 U2 R2 U' F2 B2"
+                ]
+              },
+              {
+                "id": 89,
+                "scrambles": [
+                  "U' L' U D R2 F U F R' L' U2 R B2 R B L' U2",
+                  "B' R2 U' D2 L D2 L R' F2 L2 R' F' U' R F L' F D U'",
+                  "U2 L' D2 B2 R D2 L' R2 D L B2 U' F2 R F U' L' R'",
+                  "F' D2 R' F2 U F' L B2 U2 F R2 F2 D2 F' D2 L2 B D F2",
+                  "U2 R' D' F2 L2 U' F2 D2 B2 D' R' F D' F2 U R' D2 B U2"
+                ],
+                "extraScrambles": [
+                  "F B D2 L B2 R U B' R B2 R F2 L2 F2 D' B2 D F2 U2",
+                  "F2 L' R F2 R2 D2 R' B R' B U' L2 F U F L F2"
+                ]
+              },
+              {
+                "id": 90,
+                "scrambles": [
+                  "R2 B2 D' F R U L U2 B2 U B2 U F2 U' F2 U2 F' U2 F",
+                  "R B R B2 U2 L F U2 L' F2 U2 F2 U2 L2 F2 U L2 B2 L'",
+                  "R2 U2 R2 D' L2 D' F2 D R2 U L B F U F R B' U2 R'",
+                  "R' U' L F' B' D' R U' F2 L' D2 F2 U' F2 L2 U' L2 R'",
+                  "F R D2 F' U' L U2 R F B2 R2 U B2 U' R2 L2 U2 F2 B2"
+                ],
+                "extraScrambles": [
+                  "L2 F2 D2 B R' D B2 R2 L' B' L2 D2 L2 D F2 R2 D' B2 D2",
+                  "D' F L D' F' U R' B' U D R' D2 R F2 R' L2 B2 D2 F2 D2"
+                ]
+              },
+              {
+                "id": 91,
+                "scrambles": [
+                  "F2 L2 R2 U2 B' U2 R2 B2 L' F' L B' F2 U' B F U B D",
+                  "F U L2 D' U2 L D2 F2 L U2 R' B2 U B F2 U' L2 B' L2",
+                  "L2 U' F2 D' L2 R2 U' B' D2 B2 R D L U' L2 F' D' B2 F2",
+                  "F' D B' U R' D' F2 R' U F2 L2 D B2 L2 U' B2 U' L' D2 L'",
+                  "U B2 L' B2 D' B2 F2 D' R2 U2 L' B F' D R' U' R' D F"
+                ],
+                "extraScrambles": [
+                  "D' B2 F2 L2 R F2 R2 U2 B' U2 F' R' F U' L2 R2 D R'",
+                  "B L2 F R' B2 L2 B2 U2 F' D2 R2 D2 U R U B' U B D"
+                ]
+              },
+              {
+                "id": 92,
+                "scrambles": [
+                  "D2 F' U R B2 D2 R B2 F2 R B2 L2 F' U' B2 F2 R F' U",
+                  "U B' R' F U R2 F2 U R2 U' B R2 F' L' B U'",
+                  "R' B U' R' F D' B L2 B2 D2 F2 U' F2 B2 D' B2 U' R2 L F2",
+                  "L2 B2 U2 F2 D U R' D' F2 U2 F2 R U2 L' F D B' L2",
+                  "L2 F' R2 L B' L D L F' L2 U F2 D2 F2 U' R B2"
+                ],
+                "extraScrambles": [
+                  "B2 D2 U B2 D F2 L F' L2 B2 F2 R' D2 B2 U' B D R",
+                  "D R' L' F U' R F L' B D2 R2 F' R2 F2 R2 D2 B' U B2"
+                ]
+              },
+              {
+                "id": 93,
+                "scrambles": [
+                  "R' U F2 D2 B2 L R D2 R B2 D F U2 L' B' L2 F2 D' L",
+                  "F' L' F R2 D2 F' D2 B2 L2 F D' L' B' D' R2 B' L' D' B2",
+                  "D L2 R D2 L' U2 B2 U2 F2 B D' F D' L' U B2 D B' F2",
+                  "R' B2 L2 U' D B2 D2 F' R' L' F U' F2 D' R2 D2 B2 D B2",
+                  "B2 U2 R2 F' R2 B2 D2 B' U2 R' B2 F' L2 D' B' F' U L2 D' R'"
+                ],
+                "extraScrambles": [
+                  "F' D' U2 R2 B2 L' U2 L U2 R' D B2 U' B' D' F2 L2 R2 U",
+                  "B' U2 B' L2 F' L2 D' B2 F2 R D2 L2 R U F D2 B'"
+                ]
+              },
+              {
+                "id": 94,
+                "scrambles": [
+                  "L' D2 F' B' R' L2 B D2 L U F B2 L U2 R' L2 B2 L U2",
+                  "B U2 B2 U' F' U' D' F2 B2 L2 B' L2 U2 B U2 R U' L2",
+                  "R' F' U B D2 B2 R U2 B2 D2 F L2 F' R2 U2 F' U2 D F2",
+                  "D B2 U' R' B' D' F2 U' B' U' D2 B2 U2 F' U2 B' L2 F2 U",
+                  "B U' F2 R2 L U' D B' U R2 L2 D L2 U2 L D R'"
+                ],
+                "extraScrambles": [
+                  "L D' B2 U L' U' F' R D' B2 D B2 U2 R2 B2 D2 B' D' B'",
+                  "L2 D' L2 F2 U' L' B' L R' D B2 R' D' B' D' U F2"
+                ]
+              },
+              {
+                "id": 95,
+                "scrambles": [
+                  "D2 B2 L2 F' R2 F U2 R2 D2 F' R' B D' R F2 U2 F' L2 F",
+                  "D2 R' U' R' F D2 F D2 R2 U2 B2 R2 L U' B2 F L' U2 B",
+                  "B D' L U' F2 L' D2 R' U2 L2 D2 L' D' R' D2 F L2 D' B2",
+                  "D2 B' F2 U2 F' U2 L' U2 B' F' U' L R' D' F' D' U'",
+                  "B2 D F' U' R2 D2 U L2 D' R2 B2 R2 F' R F' D' F2 D2 L2"
+                ],
+                "extraScrambles": [
+                  "B2 F D' F2 D2 B2 U' B' D2 B' U B F' U B L' F'",
+                  "U' L2 B D2 F L F U2 F2 R' U B R2 B' U2 L2 B2 L2 D2"
+                ]
+              },
+              {
+                "id": 96,
+                "scrambles": [
+                  "B2 L F L2 U R' L' U R D2 R' U2 F2 R U2 B' D F2",
+                  "U' D' F L2 D2 R F R' B2 D' B U2 R2 B' R2 B' L2 F L2",
+                  "F2 D2 L' U2 R2 U2 B' D2 R2 B R B R B2 R U L'",
+                  "D2 R U B R F2 B' R2 D L2 D' B' U2 F B2 L2 B L2",
+                  "F' U' D2 B D2 R2 F2 R2 U2 B' F' D' R' D2 B' U' L F2 L D2"
+                ],
+                "extraScrambles": [
+                  "U F2 R2 U B2 F2 D' U' L2 B' D' L F' D' U' R B' R2 U' F2",
+                  "L F R U' R' D' R2 U' L2 F2 U2 F2 B D' F' L' B R2 F2"
+                ]
+              },
+              {
+                "id": 97,
+                "scrambles": [
+                  "B' U2 L2 R' U2 L R D2 U F' U F R2 D' U B R D2",
+                  "U2 R2 B R F' D' B D R2 L2 U D R2 B2 L B' R F2",
+                  "U' L2 B2 L2 F2 D L2 U F2 L U B R' U2 B2 F2 D' F' D R",
+                  "F2 D R2 U' L2 D' F2 R' F U' F2 L' F' R2 U R B2 F2 U",
+                  "B R F L' B2 D' L2 D' R2 F2 D B2 F R' U B2 U2 B2 L"
+                ],
+                "extraScrambles": [
+                  "D' B' R' U D2 B2 F2 R' F2 L B2 R2 D L2 R B R2 F U2",
+                  "R2 F B2 U' B2 L' F' D' F2 U2 F2 D2 F2 L' F2 U2 L B2 U"
+                ]
+              },
+              {
+                "id": 98,
+                "scrambles": [
+                  "D F' R2 B2 L D2 L' F2 R U2 B L2 R2 D B' F' D' U",
+                  "U2 F2 U2 F2 U' R D2 U' L' F' U2 L' F R2 D' B' U",
+                  "R B' D' F' L2 B' R' D2 L' B2 R F2 U2 R D2 U' R' D'",
+                  "D' F2 L2 F2 D U2 F2 L' D' R U' L' D' B' F' D2 L' B2",
+                  "R2 U' B2 F2 U2 B2 R' U B R' F' D L' U2 F2 U F' D'"
+                ],
+                "extraScrambles": [
+                  "L2 F D' F' R2 D2 B2 U2 B2 R U2 L B R' B F' D2 B2 U'",
+                  "D B' D2 B2 R2 D2 R' D2 L' B R2 F R2 U F L D R2"
+                ]
+              },
+              {
+                "id": 99,
+                "scrambles": [
+                  "B' L D2 U2 L' D2 L' B2 R' B2 U' F' U R' D2 R D' F L",
+                  "B2 D' F2 R L F' L' D' F' U2 B U2 B' D2 F R2 U2 F L",
+                  "L F2 D2 B2 R B2 L' D2 U' L R2 U R2 B2 R D' R F",
+                  "F L2 B' L2 F2 L2 B' R D U' F D2 F D2 R' B2 U2",
+                  "B R L F U2 R2 F' B2 U2 R' U2 F2 R2 U' F' D2 L"
+                ],
+                "extraScrambles": [
+                  "D2 L F2 D L2 U' L2 R2 F2 L F2 D L2 F D' B L' B",
+                  "R2 D' R U2 F2 L U2 F2 D2 F2 R2 F2 L2 U R' B' L F D"
+                ]
+              },
+              {
+                "id": 100,
+                "scrambles": [
+                  "R2 D' R B' F2 R2 U2 B2 R2 U2 F D R' F2 U B F' L2 U2",
+                  "U' R2 B D2 R D R D2 L2 D' U2 R2 F' B2 U2 F2 B R",
+                  "B2 L B L' U' R2 F R2 B2 D2 L B2 L2 D2 F2 D2 B R F",
+                  "R L' F U' B2 R F' U' D2 L' U B2 D' R2 F2 U2 B2 L2",
+                  "D' R' B2 L U2 L2 F2 R' U2 L F' D' L2 B L' B D R'"
+                ],
+                "extraScrambles": [
+                  "F' B U R B L' U2 B2 D' L' B L2 F2 D F2 L2 D2 F2 L2",
+                  "L U L' F D2 B U2 R2 F L2 U2 F2 R2 L D' U' L B D2 L"
+                ]
+              },
+              {
+                "id": 101,
+                "scrambles": [
+                  "B2 U' R2 U2 B2 R F2 R' F2 U2 L B D' F' D L2 F2 U",
+                  "D' L' U F U' B D' R' U' D2 R U2 F2 R2 B2 D2 L B L2",
+                  "L' U' F' R' D' F2 D F2 U' L2 B2 F2 L' D' F2 L' U' L2 U",
+                  "D L B' D' F' D2 R' D' F2 R2 U' F2 B2 U' B2 R2 U F' R2 D2",
+                  "U' F2 D2 F' R2 D2 B U2 F' U' R F' D F2 U' R' B2 U' R'"
+                ],
+                "extraScrambles": [
+                  "R2 U' R2 D2 L2 B2 D' U2 L2 U2 L2 R' B R2 D L2 F U2 F2",
+                  "D F2 D2 U2 L2 D F2 U' L F L D' R' U F' D B L F"
+                ]
+              },
+              {
+                "id": 102,
+                "scrambles": [
+                  "L' D' R' L2 B' D2 F' D2 R2 F U2 F R2 D' L' F' R2 D2 L2 F'",
+                  "D F R F' D' B' L F' U2 B2 L2 F2 D R2 U L2 B2 U' D L",
+                  "D' R2 B2 L' U2 R F2 R' F R F' D2 L' D B F D2 B2",
+                  "U L2 F2 D2 L B2 R' U2 R F2 U F' L U L R2 F'",
+                  "D R2 F2 R2 B2 D' L2 D L R U' L2 F' L U' F U' B' D U'"
+                ],
+                "extraScrambles": [
+                  "L' D2 B F2 U2 R2 U2 L2 B F2 R' D' L2 B' U2 R U B' F'",
+                  "F2 L' U2 B R' U R2 L' F U2 F2 L2 B2 D F2 L2 D' F U'"
+                ]
+              },
+              {
+                "id": 103,
+                "scrambles": [
+                  "D2 R2 F2 U R2 U2 L2 F2 L2 F D' F' L D2 F L B' L2 U",
+                  "U' F U' L2 D2 R2 F2 D L2 U' F2 U L F D' U2 F2 D F2",
+                  "R U' D L' F' D F' U2 B' R F U2 R2 F B2 D2 B2 D2 F",
+                  "B' L2 B2 U2 F U2 R2 U2 R B D2 L B' F2 D U' F' L",
+                  "R' B2 R2 D U R2 U B2 L2 R2 U' B' L F2 D' L' R' F' D' U2"
+                ],
+                "extraScrambles": [
+                  "U2 R B2 R L' F2 D R' U' B U R2 F' U2 B2 U2 L2 D2",
+                  "D' U2 B2 D L2 D' U2 F2 R' B' D2 F' L2 B D2 R2 B2 R U'"
+                ]
+              },
+              {
+                "id": 104,
+                "scrambles": [
+                  "F B2 L2 B2 D2 L2 R2 U' L2 R2 B L2 U' F' D B' D' L R'",
+                  "L' U' B2 F2 R2 D2 F' D2 F' U2 F' U B D2 L' F R2 D2 U'",
+                  "L2 D F2 R2 D' F2 U' B2 U R2 L' B2 U B F L' B2 L' U2",
+                  "F' U2 B L2 B' U2 B2 U' B' L' F2 R' F2 D2 B L2 B2 D",
+                  "U F' D2 F L' U2 R2 U2 D F D F2 L2 U2 R2 L2 B2 L'"
+                ],
+                "extraScrambles": [
+                  "U' R2 U2 F2 R2 D' F2 L2 U' B L' F' L2 D2 R' D R' F2 D' U'",
+                  "B' U2 R2 B2 U2 F U2 L D2 L2 U' B' D' L' R B L' R'"
+                ]
+              },
+              {
+                "id": 105,
+                "scrambles": [
+                  "R B' L2 R2 B' R2 B' R2 U2 B' R B D B2 L R' F L' U2",
+                  "U F R' D R2 U L2 U' L2 U2 F2 B' D L2 B F R' B L2",
+                  "B2 R' D B U' L2 B' R' L' U B L2 B2 U2 R B2 R' D2 R2",
+                  "B U' R F U2 R' D' U2 L' B2 R' F2 L' F2 B D' F' R'",
+                  "D' B2 U2 F' U2 R2 U2 B F2 R2 U' R B D' R B2 L2 R2"
+                ],
+                "extraScrambles": [
+                  "R' D' F' L F2 D L' U F2 L2 U2 L2 D F2 U' L2 R' D' L'",
+                  "B2 L F2 R2 U D2 B L F2 D F' R F2 L2 U2 L' F2 L' U2"
+                ]
+              }
+            ],
+            "extensions": [
+              {
+                "id": "org.worldcubeassociation.tnoodle.SheetCopyCount",
+                "specUrl": "",
+                "data": {
+                  "numCopies": 1
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "schedule": {
+      "numberOfDays": 0,
+      "venues": []
+    }
+  }
+}
